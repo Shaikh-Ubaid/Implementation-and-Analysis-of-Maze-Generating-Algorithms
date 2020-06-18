@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <!-- <script src="https://cdn.jsdelivr.net/npm/p5@1.0.0/lib/p5.min.js"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.0.0/p5.js"></script>
+
+  <title>Maze Generation</title>
+  <style>
+    button {
+      padding: 20px;
+      margin-left: 20px;
+      margin-top: 50px;
+      width: 150px;
+      clear: both;
+
+    }
+
+    #defaultCanvas0 {
+      transform: rotate(90deg) scaleY(-1);
+      border: 3px solid black;
+      margin-left: 25px;
+      margin-top: 25px;
+      float: left;
+    }
+  </style>
+</head>
+
+<body>
+  <button id="play" onclick="Play()">Play</button>
+  <button onclick="redraw()">Next Step</button>
+
+  <script src="sketch.js"></script>
+  <script>
+    
+    var Button = document.querySelector('#play');
+    var flag = 0;
+    function Play() {
+      if (flag % 2 != 0) {
+        //pause
+        noLoop();
+        Button.innerHTML = "Play";
+      }
+      else {
+        //play
+        loop();
+        Button.innerHTML = "Pause";
+
+      }
+      flag++;
+    }
+  </script>
+</body>
+
+</html>
