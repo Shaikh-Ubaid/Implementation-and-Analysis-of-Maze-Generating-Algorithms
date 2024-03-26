@@ -1,5 +1,5 @@
 ## Quick Links
-### [Animations](https://shaikh-ubaid.github.io/Algo-Project/), [Research Paper chosen](http://ipsitransactions.org/journals/papers/tir/2019jan/p5.pdf), [Proposal](https://github.com/Shaikh-Ubaid/Algo-Project/blob/master/180001050_Project_Proposal.pdf), [Presentation](https://github.com/Shaikh-Ubaid/Algo-Project/blob/master/Maze%20Generating%20Algorithms.pdf), [Report](https://github.com/Shaikh-Ubaid/Algo-Project/blob/master/Maze%20Generation%20Algorithms%20Report.pdf)
+### [Animations](https://shaikh-ubaid.github.io/Implementation-and-Analysis-of-Maze-Generating-Algorithms/), [Research Paper chosen](http://ipsitransactions.org/journals/papers/tir/2019jan/p5.pdf), [Proposal](https://github.com/Shaikh-Ubaid/Implementation-and-Analysis-of-Maze-Generating-Algorithms/blob/master/180001050_Project_Proposal.pdf), [Presentation](https://github.com/Shaikh-Ubaid/Implementation-and-Analysis-of-Maze-Generating-Algorithms/blob/master/Maze%20Generating%20Algorithms.pdf), [Report](https://github.com/Shaikh-Ubaid/Implementation-and-Analysis-of-Maze-Generating-Algorithms/blob/master/Maze%20Generation%20Algorithms%20Report.pdf)
 
 <html>
     <body class="c149">
